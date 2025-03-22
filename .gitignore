@@ -38,3 +38,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+create-secret-dev.sh
+create-secret-prod.sh
+terraform.tfstate.backup
